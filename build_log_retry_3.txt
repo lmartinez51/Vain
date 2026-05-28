@@ -1,0 +1,20 @@
+Running Gradle task 'assembleDebug'...                          
+
+FAILURE: Build failed with an exception.
+
+* Where:
+Settings file 'C:\Users\leolm\Desktop\Proyectos_AI\Flutter\vain_app\android\settings.gradle' line: 20
+
+* What went wrong:
+Error resolving plugin [id: 'dev.flutter.flutter-plugin-loader', version: '1.0.0']
+> A problem occurred configuring project ':gradle'.
+   > Could not resolve all dependencies for configuration ':gradle:classpath'.
+      > Problems writing to Binary store in C:\Users\leolm\.gradle\.tmp\gradle16264784823966564631.bin (exist: true)
+
+* Try:
+
+
+
+
+
+
